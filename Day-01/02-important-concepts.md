@@ -5,6 +5,7 @@
 Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.
 
 ### Hypervisior 
+Hypervisior it a software or firmware layer that divides the server into small logical servers which are called as virtual machine 
 
 ## Virtual Machine
 
