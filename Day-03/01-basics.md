@@ -4,6 +4,14 @@ Azure resources are the building blocks of your cloud infrastructure in Microsof
 
 - **Resources are the instance of services**
 
+## Azure Resource manager
+Azure Resource Manager (ARM) is the deployment and management service for Microsoft Azure. It provides a centralized way to manage Azure resources such as virtual machines, databases, and networks.
+
+## Workflow Of Resource Creation
+
+
+
+
 ## Resource Groups in Azure
 
 A **Resource Group** in Azure is a logical container for resources that share the same lifecycle, permissions, and policies. It helps you organize and manage related Azure resources efficiently. Resources within a group can be deployed, updated, and deleted together as a single management unit.
