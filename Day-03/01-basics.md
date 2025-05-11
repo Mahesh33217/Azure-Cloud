@@ -9,7 +9,7 @@ Azure Resource Manager (ARM) is the deployment and management service for Micros
 
 ## Workflow Of Resource Creation
 
-
+![Workflow Of Resource Creation](https://github.com/Mahesh33217/Azure-Cloud/blob/41253cd6d33bab894366f8219444c997472f4ddc/Day-03/USER.png)
 
 
 ## Resource Groups in Azure
