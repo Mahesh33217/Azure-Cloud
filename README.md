@@ -159,3 +159,10 @@
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
 - Interviews Questions and Practice Sessions
+
+---
+### 👀 Visitors Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Azure-Cloud/count.svg" alt="Repo Visitors" />
+</p>
